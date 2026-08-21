@@ -18,7 +18,7 @@ Vegfb is involved in blood vessel formation, and it seemed like a solid gene to 
 ## Tools
 
 - **Benchling** – sequence map, guide design, scoring
-- **NCBI BLASTN** – off-target checking
+- **NCBI BLAST** – off-target checking
 - **NCBI Genome Data Viewer** – genome context
 - **Ensembl** (release 116) – annotation reference
 
