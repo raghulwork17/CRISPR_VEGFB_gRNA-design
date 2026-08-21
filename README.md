@@ -1,4 +1,4 @@
-# CRISPR sgRNA Design for VEGFB Mus Musculus First Year Project
+# CRISPR sgRNA Design for VEGFB Mus Musculus Project
 
 I'm a first-year genetic engineering student, and since I don't have wet lab access yet, I wanted to work through what a real CRISPR experiment looks like on the computational side. This project is me designing and validating guide RNAs for the mouse *Vegfb* gene (ENSMUSG00000024962) — everything you'd normally do before you ever pick up a pipette.
 
